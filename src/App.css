@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  background-color: black;
+  color: white;
+  height: 100vh;
+  text-align: center;
+}
+header {
+  margin-bottom: 10px;
+  color: rgb(138, 32, 224);
+}
+button {
+  background-color: rgb(138, 32, 224);
+  padding: 10px;
+  margin: 20px;
+  /* border: none; */
+  outline: none;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
